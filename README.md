@@ -1,6 +1,6 @@
 # Ludo Vostès
 
-### *Le cheval va à la mangeoire, et non la mangeoire au cheval.*
+### *"Le cheval va à la mangeoire, et non la mangeoire au cheval."*
 
 
 ![Ma photo PRO](photo_1.jpg)
@@ -13,7 +13,7 @@
 | Anniversaire  |   10/06/1986      |
 | Couleur préférée  | Blaw Grana    |
 | Nourriture préférée  | Cuisine asiatique = Orgie culinaire      |
-| Ananas sur pizza | - [ ] oui - [x] non   |
+| Ananas sur pizza | - [ ] oui, quand j'avais 8 ans - [x] évidemment que non   |
 
 
 #### Mes loisirs
@@ -29,5 +29,7 @@ Il faut recommander un verre au bar !
 
 #### Une histoire fun ...
 je sais pas encore
+
+![gif cheval](horse.gif)
 
 [LUCAS LELLI](https://github.com/LucasIelli/Markdown-Challenge.git) LUDO VOSTES [NAIM ZIAN](https://github.com/Naim350Z/markdown-challenge/blob/master/README.md)
